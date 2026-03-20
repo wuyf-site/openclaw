@@ -1,2 +1,11 @@
-# openclaw
-openclaw use of obsidian CLI
+# 我的 Obsidian 笔记库
+
+这是自动从 Obsidian 同步过来的笔记。
+
+## 目录
+
+- [每日行情-2026-03-19](./每日行情-2026-03-19.md)
+
+---
+
+由 OpenClaw 自动同步

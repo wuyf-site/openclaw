@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日行情-2026-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "每日行情-2026-03-19 的反向链接列表"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日行情-2026-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "每日行情-2026-03-19 的出链列表"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "每日行情-2026-03-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "每日行情-2026-03-19 的大纲"
             }
           }
         ]
@@ -197,11 +200,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4bc30db2f19baef0",
+  "active": "613d5aa9ef14b6f0",
   "lastOpenFiles": [
-    "index.html",
-    "README.md",
+    "欢迎.md",
     "每日行情-2026-03-19.md",
-    "欢迎.md"
+    "README.md",
+    "index.html"
   ]
 }

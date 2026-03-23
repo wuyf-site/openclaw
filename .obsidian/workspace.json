@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35a8747642c06437",
+        "id": "e6282350d8ce1cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "613d5aa9ef14b6f0",
+            "id": "f324911bb10e6260",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "新标签页"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e424a7eb8879b004",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4bc30db2f19baef0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
             }
           }
         ]
@@ -193,16 +177,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "613d5aa9ef14b6f0",
+  "active": "f324911bb10e6260",
   "lastOpenFiles": [
+    "daily-2026-03-19.md",
     "每日行情-2026-03-22.md",
     "每日行情-2026-03-21.md",
-    "每日行情-2026-03-20.md",
-    "daily-2026-03-19.md",
+    "README.md",
     "daily-2026-03-20.md",
+    "每日行情-2026-03-20.md",
     "每日行情-2026-03-19.md",
     "欢迎.md",
-    "README.md",
     "index.html"
   ]
 }

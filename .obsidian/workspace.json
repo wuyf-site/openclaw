@@ -11,10 +11,14 @@
             "id": "f324911bb10e6260",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "每日行情-2026-03-21.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "每日行情-2026-03-21"
             }
           }
         ]
@@ -179,11 +183,12 @@
   },
   "active": "f324911bb10e6260",
   "lastOpenFiles": [
+    "daily-2026-03-20.md",
+    "每日行情-2026-03-23.md",
     "daily-2026-03-19.md",
     "每日行情-2026-03-22.md",
     "每日行情-2026-03-21.md",
     "README.md",
-    "daily-2026-03-20.md",
     "每日行情-2026-03-20.md",
     "每日行情-2026-03-19.md",
     "欢迎.md",
